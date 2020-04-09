@@ -108,7 +108,7 @@ const Stage = React.createClass({
     if (playerCount > 2 && !currentRound) {
       return (
         <div className={ style.overlay }>
-          <button type="button" onClick={ this.startGame }>Start the fucking game!</button>
+          <button type="button" onClick={ this.startGame }>Start the game bitches!</button>
         </div>
       );
     }
